@@ -39,6 +39,7 @@
     "@typescript-eslint/eslint-plugin": "^6.21.0",
     "@typescript-eslint/parser": "^6.21.0",
     "chalk": "^4.1.2",
+    "d3": "^7.9.0",
     "eslint": "^8.57.0",
     "eslint-plugin-jsdoc": "^46.10.1",
     "husky": "^8.0.3",

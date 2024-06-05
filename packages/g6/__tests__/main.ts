@@ -63,7 +63,7 @@ async function render() {
 
   // render
   const { Renderer, Demo, Animation, Theme } = options;
-  const canvas = createGraphCanvas($container, 500, 500, Renderer);
+  const canvas = createGraphCanvas($container, 1600, 900, Renderer);
   await canvas.init();
   const testCase = demos[Demo as keyof typeof demos];
   if (!testCase) return;

@@ -69,6 +69,7 @@ export { layoutCompactBoxLeftAlign } from './layout-compact-box-top-to-bottom';
 export { layoutConcentric } from './layout-concentric';
 export { layoutCustomHorizontal } from './layout-custom-horizontal';
 export { layoutCustomIterative } from './layout-custom-iterative';
+export { LayoutCustomRender } from './layout-custom-render';
 export { layoutD3Force } from './layout-d3-force';
 export { layoutDagre } from './layout-dagre';
 export { layoutDendrogramBasic } from './layout-dendrogram-basic';
